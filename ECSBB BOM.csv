@@ -1,0 +1,18 @@
+#,RefDes,Name,Value,Pattern,Quantity,Description
+1,C1,CAP_0603,10uF,CAP_0603,1,
+2,"C2, C3",CAP_0402,0.1uF,CAP_0402,2,
+3,D1,DIODE_0805,Green LED,DIO_0805,1,
+4,H1,GROVE,,GROVE,1,Seeed Studio GROVE Connector
+5,H2,12x1 0.1  Header,,12x1 0.1 ,1,
+6,H3,6x1 0.1  Header,,6x1 0.1 ,1,
+7,"R1, R3, R5, R8, R9",RES_0603,0,RES_0603,5,Jumper Resistors for I2C Addr Selection
+8,"R2, R4, R10",RES_0603,330,RES_0603,3,
+9,"R6, R7",RES_0603,10k,RES_0603,2,
+10,S1,R530-0403-02N-440P55-R27-L14,,Varies,1,SGX Sensor Socket from Andon Electronics
+11,T1,Test Point,,1 Pin,0,
+12,U1,ADR5041,2.5V,SOT323,1,2.5v shunt
+13,U2,LMP9100x,,LMP91002,1,Analog Front End
+14,U3,ADS101x,,PRQFN-10RNP/1.6x2.1x0.5,1,
+15,U4,PCA9500BS,,QFN-16/4x4x0.65,1,
+16,U5,TC74Ax,,SOT23-5,1,
+,,,,,24,
